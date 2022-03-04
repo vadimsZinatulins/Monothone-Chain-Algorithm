@@ -1,0 +1,11 @@
+#pragma once
+
+#define MAJOR_VERSION @MonothoneChain_VERSION_MAJOR@
+#define MINOR_VERSION @MonothoneChain_VERSION_MINOR@
+
+#define SCREEN_TITLE "MonothoneChain"
+
+#define SCREEN_WIDTH 800
+#define SCREEN_HEIGHT 600
+
+#define FRAME_CAP 60
